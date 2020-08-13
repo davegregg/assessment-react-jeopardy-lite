@@ -29,7 +29,7 @@ export default JeopardyService;
 ```
 
 * Since our service uses Axios we have to add it to our project as a dependency.
-    * from the root directory of your project run `npm i axios --save` to install axios.
+    * from the root directory of your project run `npm i axios` to install axios.
 
 * Create a **Jeopardy** component in **src/components/jeopardy/** and import our JeopardyService.
 
