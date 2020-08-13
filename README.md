@@ -1,5 +1,5 @@
 # React Jeopardy Lab
-In this lab, you will a simple Jeopardy game by consuming the [jService](http://jservice.io/) API. You are going to add this game as a new component to your application from the lecture in class today.
+In this lab, you will create a simple Jeopardy game by consuming the [jService](http://jservice.io/) API. You are going to add this game as a new component to your application from the lecture in class today.
 
 To get started you need to get a few things set up so we are able to communicate to the jService API.
 
