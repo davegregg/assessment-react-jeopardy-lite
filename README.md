@@ -33,7 +33,7 @@ export default JeopardyService;
 
 * Create a **Jeopardy** component in **src/components/jeopardy/** and import our JeopardyService.
 
-**src/components/jeopardy/jeopardy.js**
+**src/components/jeopardy/Jeopardy.js**
 ```javascript
 import React, { Component } from 'react';
 
