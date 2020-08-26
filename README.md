@@ -87,7 +87,7 @@ Let's start building our game
 * Display the question, category, and point value returned from the API
 * Create a way to keep track of the user's score
 * Provide a way for the user to submit an answer to the question
-* If the answer is correct then add the point value of the question to the to the user's score. 
+* If the answer is correct then add the point value of the question to the user's score. 
 * If the answer is wrong, subtract the point value from the user's score.
 * After the user answers a question display another random question from the API.
 
@@ -100,6 +100,6 @@ Let's start building our game
 * The other should all the display of the data through passed in props. 
 
 ## Hard Mode
-* Instead of displaying a single random question, display 3 categories. 
+* Instead of displaying a single random question, display 3 categories.
 * Once a user selects a category, display the question for the category selected
 * The rest of the application should work the same
